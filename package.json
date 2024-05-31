@@ -11,7 +11,7 @@
   "keywords": ["state", "management", "javascript", "redux", "typescript"],
   "author": "Jasmine Goonei",
   "license": "MIT",
-  "homepage": "https://github.com/kerasus/jas-state-managmer",
+  "homepage": "https://github.com/JasGH/jas-state-managmer",
   "devDependencies": {
     "typescript": "^5.4.5"
   }
